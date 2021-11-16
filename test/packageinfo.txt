@@ -1,1 +1,5 @@
-
+{
+	"name": "test",
+	"requirements": "None",
+	"description": "Test package"
+}
