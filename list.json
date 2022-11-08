@@ -6,9 +6,9 @@
       "run": "https://raw.githubusercontent.com/joshilita/packages/main/test/run.sh"
     },
     {
-      "name": "maybe",
-      "infolink": "https://raw.githubusercontent.com/joshilita/packages/main/test/packageinfo.txt",
-      "run": "https://raw.githubusercontent.com/joshilita/packages/main/test/run.sh"
+      "name": "parrot",
+      "infolink": "https://raw.githubusercontent.com/joshilita/packages/main/parrot/packageinfo.txt",
+      "run": "https://raw.githubusercontent.com/joshilita/packages/main/parrot/run.sh"
     }
   ]
 }
