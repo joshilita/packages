@@ -1,5 +1,6 @@
 {
 	"name": "parrot",
 	"requirements": "None",
-	"description": "Parrot dances! Press CTRL-C to stop the dancing parrot."
+	"description": "Parrot dances! Press CTRL-C to stop the dancing parrot.",
+	"runafterinstall": "No"
 }

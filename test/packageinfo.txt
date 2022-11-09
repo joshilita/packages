@@ -1,5 +1,6 @@
 {
 	"name": "test",
 	"requirements": "None",
-	"description": "Test package"
+	"description": "Test package",
+	"runafterinstall": "Yes"
 }
