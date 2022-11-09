@@ -1,6 +1,6 @@
 {
 	"name": "test",
-	"requirements": "None",
+	"requirements": "zenity",
 	"description": "Test package",
 	"runafterinstall": "Yes"
 }
