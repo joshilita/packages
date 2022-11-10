@@ -1,0 +1,6 @@
+{
+	"name": "gui",
+	"requirements": "None",
+	"description": "Makes NewOS a GUI!",
+	"runafterinstall": "Yes"
+}
