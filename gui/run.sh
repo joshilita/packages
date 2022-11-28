@@ -16,7 +16,8 @@ sudo echo "Installing Dialog using APT..."
 sudo apt install dialog -y
 echo -e "${GREENFG}Configuration complete! You can start the GUI by using the command: gui${RESET}"
 rm -rf ~/NewOSv3/Packages/gui/startup
+exit
 fi
 
-echo "gui lol"
+dialog --title Information[!] --msgbox "This is an information message." 10 50
 
