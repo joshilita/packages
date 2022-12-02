@@ -14,6 +14,11 @@
       "name": "gui",
       "infolink": "https://raw.githubusercontent.com/joshilita/packages/main/gui/packageinfo.txt",
       "run": "https://raw.githubusercontent.com/joshilita/packages/main/gui/run.sh"
+    },
+    {
+      "name": "filetools",
+      "infolink": "https://raw.githubusercontent.com/joshilita/packages/main/filetools/packageinfo.txt",
+      "run": "https://raw.githubusercontent.com/joshilita/packages/main/filetools/run.sh"
     }
   ]
 }
