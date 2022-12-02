@@ -1,0 +1,6 @@
+{
+	"name": "filetools",
+	"requirements": "None",
+	"description": "Installes file tools, cd, dir, mkdir, and etc!",
+	"runafterinstall": "Yes"
+}
