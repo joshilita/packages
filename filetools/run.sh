@@ -11,6 +11,19 @@ if [ -f ~/NewOSv3/Packages/filetools/startup ]; then
 echo -e "${GREENFG}Thank you for installing out file tools!${RESET}"
 echo -e "${BBLUEFG}This package will install custom packages. ${RESET}"
 sleep 4
+echo -e "${GREENFG}Installing all tools.${RESET}"
+
+mkdir ~/NewOSv3/Packages/cd
+mkdir ~/NewOSv3/Packages/dir
+# mkdir ~/NewOSv3/Packages/folder
+wget https://raw.githubusercontent.com/joshilita/allfiletools/main/cd/run.sh
+mv run.sh ~/NewOSv3/Packages/cd
+wget https://raw.githubusercontent.com/joshilita/allfiletools/main/dir/run.sh
+mv run.sh ~/NewOSv3/Packages/dir
+echo -e "${GREENFG}All done! You can use cd and dir.${RESET}"
+rm -rf ~/NewOSv3/Packages/filetools/startup 
+
+
 
 
 exit 0
